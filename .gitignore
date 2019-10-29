@@ -153,3 +153,6 @@ dmypy.json
 
 data/
 saved-models/
+logs/
+
+nohup.out
