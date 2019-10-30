@@ -12,7 +12,7 @@ Using the GAN loss of:
 https://arxiv.org/abs/1701.07875
 
 ## Status:
-* The vae part seems to be working, the KL loss need to be checked
-* The gan part is not working:
+* The vae part seems to be working.
+* The gan part is not working, not giving much improvement to the generated images:
   * Need to balance the different losses
-  * Check the discriminator is well implemented, especially the weight cliping part
+  * Check the discriminator is well implemented, especially the weight cliping part.
